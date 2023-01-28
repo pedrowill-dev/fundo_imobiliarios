@@ -21,7 +21,10 @@ pip install -r requirements.txt
 <hr>
 <ol>
   <li> Abrir o arquivo de configuração do projeto em: <strong> src/config/__init__.py</strong></li>
-  <li> Editar a class ConfigurationDatabase com todas as credenciais necessarias</liL
+  <li> Editar a class ConfigurationDatabase com todas as credenciais necessarias e editar a estrutura de connection string se necessario</li><br>
+  
+  >Sites com as connection strings necessarias https://www.connectionstrings.com/
+  
   <li> Executar o arquivo run.py com o seguinte comando: </li>
 </ol>
 
