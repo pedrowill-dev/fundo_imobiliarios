@@ -10,7 +10,7 @@
 <ol>
   <li>Faça o download do código-fonte do projeto a partir do repositório no GitHub</li>
   <li>Certifique-se de ter o Python 3.x instalado em sua máquina</li>
-  <li>Instale as dependências necessárias utilizando o gerenciador de pacotes pip, rodando o seguinte comando:</li>
+  <li>Instale as dependências necessárias utilizando o gerenciador de pacotes pip, rodando o seguinte comando: </li>
 </ol>
 
 ```
